@@ -15,7 +15,7 @@ The project is a Cricket app consits of Odi rankings and Ranks and further more
         <img src="assets/images/1.png" width="30%" >
     </div><br>
     <div class="col-md-8">
-        <img src="assets/images/2.png" width="30%">
+        <center><img src="assets/images/2.png" width="30%"></center>
     </div><br>
     <div class="col-md-6">
         <img src="assets/images/3.png" width="30%">
