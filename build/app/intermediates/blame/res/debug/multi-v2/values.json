@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/saad/Flutter/flutter projects/Project/Crickfire-Flutter-App/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/saad/Flutter/flutter projects/Crickfire-Flutter-App/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/saad/Flutter/flutter projects/Project/Crickfire-Flutter-App/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/saad/Flutter/flutter projects/Crickfire-Flutter-App/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
