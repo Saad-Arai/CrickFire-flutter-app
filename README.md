@@ -11,12 +11,26 @@ A few resources to get you started if this is your first Flutter project:
 The project is a Cricket app consits of Odi rankings and Ranks and further more
 
 <div class="well text-center">
-    <span>Sister Properties:</span>
     <div class="col-md-6">
-        <img src="assets/images/1.png">
+        <img src="assets/images/1.png" width = "350px">
     </div>
     <div class="col-md-6">
-        <img src="assets/images/1.png" >
+        <img src="assets/images/2.png" width = "350px" >
+    </div>
+    <div class="col-md-6">
+        <img src="assets/images/3.png" width = "350px">
+    </div>
+    <div class="col-md-6"
+        <img src="assets/images/4.png" width = "350px">
+    </div>
+    <div class="col-md-6">
+        <img src="assets/images/5.png" width = "350px">
+    </div>
+    <div class="col-md-6">
+        <img src="assets/images/6.png" width = "350px">
+    </div>
+    <div class="col-md-6">
+        <img src="assets/images/7.png" width = "350px">
     </div>
 </div>
 
