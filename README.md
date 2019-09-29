@@ -10,10 +10,10 @@ A few resources to get you started if this is your first Flutter project:
 
 The project is a Cricket app consits of Odi rankings and Ranks and further more
 
-<img src="assets/images/1.png"  width = "20px">
-<img src="assets/images/2.png" style="width:10%">
-<img src="assets/images/3.png"  style="width:10%">
-<img src="assets/images/4.png"  style="width:10%">
-<img src="assets/images/5.png" style="width:10%">
-<img src="assets/images/6.png" style="width:10%">
+<img src="assets/images/1.png" width = "50px">
+<img src="assets/images/2.png" width = "50px">
+<img src="assets/images/3.png" width = "50px">
+<img src="assets/images/4.png" width = "50px">
+<img src="assets/images/5.png" width = "50px">
+<img src="assets/images/6.png" width = "50px">
 
