@@ -1,7 +1,7 @@
 
+import 'package:meta/meta.dart';
 import 'package:crickfire/utility/cricapp.dart';
 import 'package:equatable/equatable.dart';
-import 'package:meta/meta.dart';
 
 import 'index.dart';
 

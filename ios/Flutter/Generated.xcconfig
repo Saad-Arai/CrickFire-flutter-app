@@ -1,9 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/home/saad/Flutter/flutter
-FLUTTER_APPLICATION_PATH=/home/saad/Flutter/flutter projects/crickfire
+FLUTTER_APPLICATION_PATH=/home/saad/Flutter/flutter projects/Crickfire-Flutter-App
 FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_FRAMEWORK_DIR=/home/saad/Flutter/flutter/bin/cache/artifacts/engine/ios
-FLUTTER_BUILD_NAME=1.0.0
-FLUTTER_BUILD_NUMBER=1
